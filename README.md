@@ -22,11 +22,9 @@ analysis and game development.
 able to learn quickly, as I mainly need to master syntax. I already have a 
 solid foundation in programming concepts.
 
-    - __Proficient__: C, Python
+    - __Proficient__: C, C++, Haskell, Python
 
-    - __Capable__: Haskell, C++
-
-    - __Just beginning__: JavaScript, CSS
+    - __Capable__: Java, JavaScript, CSS
 
     - __Want to learn__: Rust
 
